@@ -26,7 +26,7 @@ A dog should contain the following fields:
 - Gender (a character string).
 - Color (a character string).
 - Favoritefood (a character string).
-- Favorite toy (a character string).
+- Favoritetoy (a character string).
 
 ## Breed Model
 

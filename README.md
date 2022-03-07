@@ -66,3 +66,24 @@ To do this, do the following:
 ## Submission
 
 Submit a Word document containing a link to your GitHub repository for this assignment along with the requirements in the grading rubric.
+
+## Completing This Assignment
+
+There were times when completing this assignment that I had to research solutions to errors I was encountering. I also researched some Django concepts to better understand the function behind each line of code I wrote. You can view some of these sources below.
+
+- <https://dev.to/vladyslavnua/how-to-protect-your-django-secret-and-oauth-keys-53fl>
+- <https://www.django-rest-framework.org/api-guide/fields/>
+- <https://www.django-rest-framework.org/api-guide/serializers/>
+- <https://www.django-rest-framework.org/tutorial/3-class-based-views/>
+- <https://docs.djangoproject.com/en/4.0/topics/db/models/>
+- <https://docs.djangoproject.com/en/4.0/topics/http/urls/>
+- <https://stackoverflow.com/questions/2642613/what-is-related-name-used-for#:~:text=The%20related_name%20attribute%20specifies%20the%20name%20of%20the,with%20the%20suffix%20_set%2C%20for%20instance%20User.map_set.all%20%28%29>
+- <https://stackoverflow.com/questions/27484344/assertion-error-at-django-rest-framework>
+- <https://stackoverflow.com/questions/3691101/what-is-the-purpose-of-str-and-repr>
+- <https://stackoverflow.com/questions/45483417/what-is-doing-str-function-in-django>
+- <https://stackoverflow.com/questions/849142/how-to-limit-the-maximum-value-of-a-numeric-field-in-a-django-model>
+- <https://wsvincent.com/django-rest-framework-react-tutorial/>
+
+## Reflection
+
+I gained more knowledge of the Django framework and creating a REST API from scratch on my own. In particular, I learned how to specify and limit specific values for fields, connect the models, views, and urls together, and how to keep a secret key private.  

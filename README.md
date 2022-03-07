@@ -20,24 +20,24 @@ You should build a new API endpoint that allows an end user to create a new Dog 
   
 A dog should contain the following fields:
 
-- name (a character string)
-- age (an integer)
-- breed (a foreign key to the Breed Model)
-- gender (a character string)
-- color (a character string)
-- favoritefood (a character string)
-- favorite toy (a character string)
+- Name (a character string).
+- Age (an integer).
+- Breed (a foreign key to the Breed Model).
+- Gender (a character string).
+- Color (a character string).
+- Favoritefood (a character string).
+- Favorite toy (a character string).
 
 ## Breed Model
 
 A breed should contain the following fields:
 
-- name (a character string)
-- size (a character string => should accept Tiny, Small, Medium, or Large)
-- friendliness (an integer field => should accept values from 1-5)
-- trainability (an integer field => should accept values from 1-5)
-- sheddingamount (an integer field => should accept values from 1-5)
-- exerciseneeds (an integer field => should accept values from 1-5)
+- Name (a character string).
+- Size (a character string -> should accept Tiny, Small, Medium, or Large).
+- Friendliness (an integer field -> should accept values from 1-5).
+- Trainability (an integer field -> should accept values from 1-5).
+- Sheddingamount (an integer field -> should accept values from 1-5).
+- Exerciseneeds (an integer field -> should accept values from 1-5).
 
 ## To-Do List
 
